@@ -1,0 +1,19 @@
+{
+  "name": "node-hapi-skeleton",
+  "version": "0.1.0",
+  "description": "skeleton for a node hapi backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "hapi",
+    "skeleton"
+  ],
+  "author": "alfred",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.4.3"
+  }
+}

@@ -1,0 +1,1 @@
+skeleton for node hapi server
